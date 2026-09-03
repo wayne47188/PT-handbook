@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "8c64b86d54ceb784",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75b7639b5b2c94e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "549ac03d03a48e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12-Reporting-CPTS/99-攻擊敘事.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "99-攻擊敘事"
+            }
+          },
+          {
+            "id": "ba97485d3492e6bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09-Active-Directory/72A-Kerbrute與LLMNR毒化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "72A-Kerbrute與LLMNR毒化"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59f37879fc2e5722",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e2e77c24945303b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e64bbcf49b5151d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "49e1f056c5b2e6ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "df2111f291f44e43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.5
+  },
+  "right": {
+    "id": "d25df4b1db2b14d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5379a327da9a3fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da0739f598e8702",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08-Pivoting/08-Volume-8-Pivoting-Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "08-Volume-8-Pivoting-Index 的反向連結"
+            }
+          },
+          {
+            "id": "1a2e80fbc8e4a0e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08-Pivoting/08-Volume-8-Pivoting-Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "08-Volume-8-Pivoting-Index 的對外連結"
+            }
+          },
+          {
+            "id": "bf9b81a44aa5fa23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "7d4b578e795e24e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "9c624074054e622e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08-Pivoting/08-Volume-8-Pivoting-Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "08-Volume-8-Pivoting-Index 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "ba97485d3492e6bc",
+  "lastOpenFiles": [
+    "09-Active-Directory/73C-就地取材列舉.md",
+    "09-Active-Directory/73B-有憑證AD列舉Windows.md",
+    "09-Active-Directory/72B-密碼原則列舉.md",
+    "09-Active-Directory/72-無憑證AD列舉.md",
+    "09-Active-Directory/73-有憑證AD列舉.md",
+    "09-Active-Directory/72A-Kerbrute與LLMNR毒化.md",
+    "CPTS_AD_Playbook.md",
+    "04-Web/38-SQL注入.md",
+    "04-Web/35A-應用程式探索與CMS列舉.md",
+    "04-Web/35-Web列舉.md",
+    "04-Web/34-Web架構基礎.md",
+    "04-Web/04-Volume-4-Web-Index.md",
+    "03-Vulnerability-Assessment/32-Web漏洞掃描器.md",
+    "03-Vulnerability-Assessment/30-Nessus.md",
+    "03-Vulnerability-Assessment/03-Volume-3-Vulnerability-Assessment-Index.md",
+    "02-Footprinting/28-搜尋引擎與OSINT.md",
+    "02-Footprinting/26-雲端資源.md",
+    "02-Footprinting/02-Volume-2-Footprinting-Index.md",
+    "01-Information-Gathering/17-Naabu與Nmap掃描分工.md",
+    "01-Information-Gathering/11-子網域列舉.md",
+    "01-Information-Gathering/10-憑證透明度.md",
+    "01-Information-Gathering/08-host與nslookup.md",
+    "01-Information-Gathering/05-DNS區域傳送AXFR與IXFR.md",
+    "01-Information-Gathering/04-DNS架構與解析流程.md",
+    "01-Information-Gathering/03-ASN與BGP資產發現.md",
+    "02-Footprinting/27-人員與組織偵察.md",
+    "C2 Framework-silver",
+    "attachments/desktop.ini",
+    "04-Web/XX9Sc11O",
+    "04-Web/XX3zYilH",
+    "tools/XXR2oGLa",
+    "tools/XX4Z3id6",
+    "01-Information-Gathering/XXV0GVi5",
+    "01-Information-Gathering/XXyf3IvK",
+    "01-Information-Gathering/XX30cPSn",
+    "10-Windows-Privilege-Escalation/XXFF07fL"
+  ]
+}
